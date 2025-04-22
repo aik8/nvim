@@ -10,5 +10,8 @@ local opt = vim.opt
 -- Use tabs instead of spaces.
 opt.expandtab = false
 
--- Number of spaces tabs count for
+-- Number of spaces tabs count for.
 opt.tabstop = 4
+
+-- Auto wrap.
+opt.wrap = true
