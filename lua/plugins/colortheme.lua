@@ -1,0 +1,36 @@
+return {
+  -- Catpuuccin Example
+  -- {
+  --   "catppuccin/nvim",
+  --   lazy = true,
+  --   name = "catppuccin",
+  --   priority = 1000,
+  --   opts = {
+  --     flavour = "latte",
+  --     transparent_background = false,
+  --   },
+  -- },
+  -- {
+  --   "LazyVim/LazyVim",
+  --   opts = {
+  --     colorscheme = "catppuccin-mocha",
+  --   },
+  -- },
+
+  -- Gruvbox Example
+  -- {
+  --   "ellisonleao/gruvbox.nvim",
+  --   lazy = true,
+  --   priority = 1000,
+  --   config = true,
+  --   opts = {
+  --     contrast = "hard",
+  --   },
+  -- },
+  -- {
+  --   "LazyVim/LazyVim",
+  --   opts = {
+  --     colorscheme = "gruvbox",
+  --   },
+  -- },
+}
