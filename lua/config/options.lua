@@ -15,3 +15,11 @@ opt.tabstop = 4
 
 -- Auto wrap.
 opt.wrap = true
+
+-- Override Terraform filetypes.
+vim.filetype.add({
+  extension = {
+    tf = "terraform",
+    tfvars = "terraform-vars",
+  },
+})
